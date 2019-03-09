@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Before the chalange
+I found about the 100 Days of Code from a slack channel in Flatiron School where I am doing a Full stack web development bootcamp. I thought this would be a nice cjhallange to take especially with my busy schedule where I sometimes get sidetracked. 1 Hour is not a lot and I am sure I can do it - at least
+
+My planned day one in Sunday March 10, 2019. I shoose that day (2 days away from writing this) because thats Day 1 in my new Year! I will be 47 on March 9! 
+
+
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +36,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
