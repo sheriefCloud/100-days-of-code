@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days of Code - Log
 
 ## Before the chalange
 I found about the 100 Days of Code from a slack channel in Flatiron School where I am doing a Full stack web development bootcamp. I thought this would be a nice cjhallange to take especially with my busy schedule where I sometimes get sidetracked. 1 Hour is not a lot and I am sure I can do it - at least
